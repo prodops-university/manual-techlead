@@ -4,7 +4,6 @@ Esse repo foi criado para coletar sugestões, críticas, dúvidas e abrir um can
 
 O texto voces encontram em [Manual do Tech Lead ProdOps](https://docs.google.com/document/d/1t5_Hb4Lu88xXgtqsULh0jad1rOc4mUhnQSrXvUPk0WE/edit?usp=sharing)
 
-Sobre o Framework ProdOps
-Sobre
+Sobre o Framework ProdOps [Produto Reativo](https://produtoreativo.com.br/)
 
 Deixem suas dúvidas nas Issues desse Repo (Lembra de verificar se já existe algo na linha da sua dúvida).
