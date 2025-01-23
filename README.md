@@ -11,3 +11,13 @@ Sobre o Framework ProdOps [Produto Reativo](https://produtoreativo.com.br/)
 Deixem suas dúvidas nas Issues desse Repo (Lembra de verificar se já existe algo na linha da sua dúvida).
 
 O Post no Linkedin que abri as discussões está registado na Issue [#1: Onde tudo começou!](https://github.com/prodops-university/manual-techlead/issues/1)
+
+## Canais de Comunicação sobre o ProdOps
+
+Canal com entrevistas e materiais curtos.  
+https://www.youtube.com/ProdOps
+
+Newsletter para tratar sobre temas do momento.  
+https://produtoreativo.substack.com/
+
+Para o material atemporal, um site dedicado ao tema em https://produtoreativo.com.br/
