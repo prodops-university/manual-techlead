@@ -10,4 +10,4 @@ Sobre o Framework ProdOps [Produto Reativo](https://produtoreativo.com.br/)
 
 Deixem suas dúvidas nas Issues desse Repo (Lembra de verificar se já existe algo na linha da sua dúvida).
 
-O Post no Linkedin que abri as discussões está registado na Issue #1
+O Post no Linkedin que abri as discussões está registado na Issue [#1: Onde tudo começou!](https://github.com/prodops-university/manual-techlead/issues/1)
