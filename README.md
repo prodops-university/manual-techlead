@@ -9,3 +9,5 @@ O texto voces encontram em [Manual do Tech Lead ProdOps](https://docs.google.com
 Sobre o Framework ProdOps [Produto Reativo](https://produtoreativo.com.br/)
 
 Deixem suas dúvidas nas Issues desse Repo (Lembra de verificar se já existe algo na linha da sua dúvida).
+
+O Post no Linkedin que abri as discussões está registado na Issue #1
